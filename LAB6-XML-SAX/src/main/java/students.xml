@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<students>
+
+    <student id = "1">
+        <name>Nguyen Van A</name>
+        <classname>IT1</classname>
+        <age>19</age>
+        <gpa>3.8</gpa>
+    </student>
+
+
+    <student id = "2">
+        <name>Nguyen Van B</name>
+        <classname>IT2</classname>
+        <age>19</age>
+        <gpa>3.4</gpa>
+    </student>
+
+
+    <student id = "3">
+        <name>Ho Ngoc Chau</name>
+        <classname>IT3</classname>
+        <age>18</age>
+        <gpa>3.77</gpa>
+    </student>
+
+
+    <student id = "4">
+        <name>Le Bao Chau</name>
+        <classname>NS1</classname>
+        <age>19</age>
+        <gpa>3.31</gpa>
+    </student>
+
+</students>
